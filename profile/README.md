@@ -2,7 +2,8 @@
 
 
 ```
-"தன்னை மிகைப்படுத்தும் பழக்கங்களைப் பற்றிய எச்சரிக்கை."
+"தெய்வத்தான் ஆகா தெனினும்
+முயற்சிதன் மெய்வருத்தக் கூலி தரும்."
 ```
 
 <!--
@@ -14,4 +15,4 @@
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+--
